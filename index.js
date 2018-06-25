@@ -4,4 +4,4 @@ const currentUser  = "Grace Hopper"
 
 let welcomeMessage = `Welcome to Flatbook, ${currentUser}!`
 
-let excitedWelcomeMessage = welcomeMessage.upCase
+let excitedWelcomeMessage = welcomeMessage.toUpperCase
